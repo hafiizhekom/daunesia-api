@@ -1,0 +1,7 @@
+flask
+flask-restful
+werkzeug
+tinydb
+opencv-python
+keras
+numpy
